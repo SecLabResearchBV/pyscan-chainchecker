@@ -12,7 +12,7 @@ Performs a quick scan of the following:
 Install and run as follows:
 
 ```bash
-pip install [...]
+pip install https://github.com/SecLabResearchBV/pyscan-chainchecker
 pyscan-chainchecker --all
 ```
 
