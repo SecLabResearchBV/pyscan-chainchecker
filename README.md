@@ -1,4 +1,4 @@
-# PyScan ChainChecker for TeamPCP infection
+# Python package scanner for TeamPCP infection
 
 Unofficial fork of [Pyscan](https://github.com/ohaswin/pyscan) customized to specifically search for Python package versions 
 affected by the [TeamPCP supply chain attack](https://unit42.paloaltonetworks.com/teampcp-supply-chain-attacks/).
