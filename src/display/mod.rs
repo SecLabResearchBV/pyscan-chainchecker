@@ -168,3 +168,4 @@ pub fn display_summary(collected: &Vec<ScannedDependency>) -> io::Result<()> {
     }
     Ok(())
 }
+

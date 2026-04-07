@@ -385,3 +385,4 @@ pub fn parse_opt_deps_pyproject(table: Table, deps: &mut Vec<String>) {
         }
     }
 }
+

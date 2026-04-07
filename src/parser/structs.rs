@@ -183,3 +183,4 @@ pub struct ScannedDependency {
     pub version: String,
     pub vuln: Vulnerability,
 }
+

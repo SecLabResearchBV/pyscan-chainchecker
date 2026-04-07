@@ -133,3 +133,4 @@ fn create_tmp_folder(path: &str) -> std::io::Result<()> {
 fn cleanup() -> Result<(), std::io::Error> {
     std::fs::remove_dir_all("./tmp/docker-files")
 }
+

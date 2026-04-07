@@ -428,3 +428,4 @@ impl Vulnerability {
 
     }
 }
+

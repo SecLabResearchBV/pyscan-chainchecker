@@ -18,8 +18,8 @@ def main():
     for i in range(0, randint(5, 13)):
         s = '|/-\\'
         c = s[i%len(s)]
-        print('['+c+'] Checking for exploitation artifacts...', end='\r', flush=True)
+        print('['+c+'] Checking for exploitation artifacts...                  ', end='\r', flush=True)
         sleep(0.25)
-    print('')
+    print('                                                                         ')
     print('')
     print('No packages identified with known vulnerable versions!')
